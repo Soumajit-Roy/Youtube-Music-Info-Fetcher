@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Music Info Fetcher",
+    "version": "1.0",
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+  }
+  
